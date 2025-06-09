@@ -1,0 +1,20 @@
+---
+description: "Brief rule name/description"
+globs:
+  - on what files to apply
+---
+
+# Rule title
+
+Follow these key conventions:
+
+- Convention 1
+- Convention 2
+
+Make sure that:
+
+- 1
+- 2
+
+Refer to: use some internal/external link for documentation/guideline/info/etc.
+

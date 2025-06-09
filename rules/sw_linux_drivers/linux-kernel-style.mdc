@@ -1,0 +1,20 @@
+---
+description: "Linux kernel coding style guidelines"
+globs:
+  - "**/*.c"
+  - "**/*.h"
+---
+
+# Linux Kernel C Style Guidelines
+
+Follow these key conventions:
+
+- Use tabs, not spaces, for indentation (`indent with tab = 8`).
+- No C++ style `//` comments — use `/* */`.
+- Max line length: 80 characters.
+- No CamelCase: use `snake_case` for function and variable names.
+- One statement per line.
+- Function names should be `verb_noun()`.
+
+Refer to: [`Documentation/process/coding-style.rst`](https://www.kernel.org/doc/html/latest/process/coding-style.html)
+
